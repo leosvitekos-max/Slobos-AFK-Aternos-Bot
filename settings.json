@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "leoje12233-pZWs.aternos.me",
+    "ip": "leoje12233-pZWs.aternos.me:52829",
     "port": 52829,
     "version": "",
     "try-creative": false
